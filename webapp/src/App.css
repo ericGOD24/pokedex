@@ -3,6 +3,10 @@
 }
 
 .App{
+    background-attachment: fixed;
+    background-position: center;
+    background-color:#fafafa;
+    background-repeat: repeat; 
     padding-top: 4rem;
     min-height: 100vh;
 }
