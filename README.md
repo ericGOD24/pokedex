@@ -5,27 +5,13 @@ Pokedex feita com o front-end em Javascrip usando o framework ReactJS que tem co
 
 # Como inicializar
 
-  - Primeiro passo
+  - Primeiro passo:
 
-  `$ npm install`
+  `$ yarn`
   
-  - Caso não tenha o bootstrap instalado
+  -Após todas as dependências instaladas, apenas escreva o comando abaixo?
   
-  `$ npm install bootstrap`
-  
-  - Algumas dependências da aplicação
-  
-  `$ npm install react-dom`
-  
-  `$ npm install react-router-dom`
-  
-  `$ npm install styled-components`
-  
-  `$ npm install axios`
-  
-  -Após todas as dependências instaladas apenas escreva o comando abaixo
-  
-  `$ npm start`
+  `$ yarn start`
   
 # Dados e Fatos
 
